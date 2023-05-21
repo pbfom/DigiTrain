@@ -1,0 +1,220 @@
+{
+    "workouts":
+    [
+
+        {
+            "date" : "2023-01-01",
+            "type" : "cycling",
+            "duration" : "20 mins"
+        },
+        {
+            "date" : "2023-01-03",
+            "type" : "boxing",
+            "duration" : "15 mins"
+        },
+        {
+            "date" : "2023-01-07",
+            "type" : "swimming",
+            "duration" : "20 mins"
+        },
+
+        {
+            "date" : "2023-01-10",
+            "type" : "HIIT",
+            "duration" : "20 mins"
+        },
+        {
+            "date" : "2023-01-11",
+            "type" : "cycling",
+            "duration" : "30 mins"
+        },
+        {
+            "date" : "2023-01-14",
+            "type" : "HIIT",
+            "duration" : "15 mins"
+        },
+        {
+            "date" : "2023-01-16",
+            "type" : "swmimming",
+            "duration" : "30 mins"
+        },
+        {
+            "date" : "2023-01-18",
+            "type" : "running",
+            "duration" : "20 mins"
+        },
+        {
+            "date" : "2023-01-20",
+            "type" : "cycling",
+            "duration" : "30 mins"
+        },
+        {
+            "date" : "2023-01-25",
+            "type" : "jogging",
+            "duration" : "25 mins"
+        },
+        {
+            "date" : "2023-01-28",
+            "type" : "boxing",
+            "duration" : "20 mins"
+        },
+        {
+            "date" : "2023-01-31",
+            "type" : "core",
+            "duration" : "20 mins"
+        }
+    ],
+
+    "open_workouts":
+
+    [
+        {
+            "date" : "2023-02-02",
+            "type" : "HIIT",
+            "duration" : "20 mins",
+
+            "content" : [
+                {
+                    "exercise_nr": "1",
+                    "exercise_name": "Sit-Ups",
+                    "reps_type" : "Reps",
+                    "reps" : "30",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/sit-ups.mp4"
+                },
+
+                {
+                    "exercise_nr": "2",
+                    "exercise_name": "Burpees",
+                    "reps" : "15",
+                    "reps_type" : "Reps",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/burpees.mp4"
+                },
+
+                {
+                    "exercise_nr": "3",
+                    "exercise_name": "Plank",
+                    "reps" : "30",
+                    "reps_type" : "Seconds",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/plank.mp4"
+                },
+
+                {
+                    "exercise_nr": "4",
+                    "exercise_name": "Break",
+                    "reps" : "30",
+                    "reps_type" : "Seconds"
+
+                },
+
+                {
+                    "exercise_nr": "5",
+                    "exercise_name": "Sit-Ups",
+                    "reps_type" : "Reps",
+                    "reps" : "30",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/sit-ups.mp4"
+                },
+
+                {
+                    "exercise_nr": "6",
+                    "exercise_name": "Burpees",
+                    "reps" : "15",
+                    "reps_type" : "Reps",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/burpees.mp4"
+                },
+
+                {
+                    "exercise_nr": "7",
+                    "exercise_name": "Plank",
+                    "reps" : "20",
+                    "reps_type" : "Seconds",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/plank.mp4"
+                },
+
+                {
+                    "exercise_nr": "8",
+                    "exercise_name": "Break",
+                    "reps" : "30",
+                    "reps_type" : "Seconds"
+
+                },
+
+                {
+                    "exercise_nr": "9",
+                    "exercise_name": "Sit-Ups",
+                    "reps_type" : "Reps",
+                    "reps" : "20",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/sit-ups.mp4"
+                },
+
+                {
+                    "exercise_nr": "10",
+                    "exercise_name": "Burpees",
+                    "reps" : "15",
+                    "reps_type" : "Reps",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/burpees.mp4"
+                },
+
+                {
+                    "exercise_nr": "11",
+                    "exercise_name": "Plank",
+                    "reps" : "20",
+                    "reps_type" : "Seconds",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/plank.mp4"
+                },
+
+                {
+                    "exercise_nr": "12",
+                    "exercise_name": "Break",
+                    "reps" : "30",
+                    "reps_type" : "Seconds"
+
+                },
+
+                {
+                    "exercise_nr": "13",
+                    "exercise_name": "Sit-Ups",
+                    "reps_type" : "Reps",
+                    "reps" : "30",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/sit-ups.mp4"
+                },
+
+                {
+                    "exercise_nr": "14",
+                    "exercise_name": "Burpees",
+                    "reps" : "15",
+                    "reps_type" : "Reps",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/burpees.mp4"
+                },
+
+                {
+                    "exercise_nr": "15",
+                    "exercise_name": "Plank",
+                    "reps" : "20",
+                    "reps_type" : "Seconds",
+                    "media_type" : "video",
+                    "media_path" : "lib/data/media/plank.mp4"
+                }
+                
+            ]
+        },
+
+        {
+            "date" : "2023-02-02",
+            "type" : "Swimming",
+            "duration" : "30 mins"
+        }
+ 
+    ]
+
+}
